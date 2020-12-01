@@ -11,7 +11,7 @@
 
 ## General info
 To Do app completely build from scratch.
-Pokemon memory game, build using React.js on frontend, PHP on a backend side and MySQL for database table. Docker file set and ready for production.
+App build using React.js on frontend, PHP on a backend side and MySQL for database table. Docker file set and ready for production.
 
 ## Technologies
 * ReactJS
